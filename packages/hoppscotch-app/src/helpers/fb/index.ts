@@ -7,13 +7,13 @@ import { initHistory } from "./history"
 import { initSettings } from "./settings"
 
 const firebaseConfig = {
- apiKey: "AIzaSyApN5iYz4JhRyJHzEmTXleSE5yghZOvM3k",
-  authDomain: "saxichat.firebaseapp.com",
-  projectId: "saxichat",
-  storageBucket: "saxichat.appspot.com",
-  messagingSenderId: "336911539806",
-  appId: "1:336911539806:web:89eab0783d20c79587decf",
-  measurementId: "G-39G4LV1L7H"
+ apiKey: "AIzaSyArzlaZEjOGY4uo7togIEkPG1tJUkx8KdA",
+  authDomain: "imtijaab.firebaseapp.com",
+  projectId: "imtijaab",
+  storageBucket: "imtijaab.appspot.com",
+  messagingSenderId: "1039388818913",
+  appId: "1:1039388818913:web:cdccffe86fdce64a3326a0",
+  measurementId: "G-CEH7MSSVW4"
 }
 
 let initialized = false
