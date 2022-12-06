@@ -1,6 +1,3 @@
-<template>
- 
-</template>
 
 <script setup lang="ts">
 import GithubButton from "vue-github-button"
